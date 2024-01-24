@@ -1,0 +1,16 @@
+{
+  "name": "ai-for-web-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chat.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "langchain": "^0.1.5",
+    "openai": "^4.25.0"
+  }
+}
